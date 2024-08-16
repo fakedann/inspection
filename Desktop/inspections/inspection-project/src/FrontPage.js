@@ -6,6 +6,7 @@ function FrontPage(){
     return (
         <div>
             <p>frontpage</p>
+            <p>testing commits here</p>
         </div>
     )
 }
